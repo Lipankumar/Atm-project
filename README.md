@@ -1,0 +1,50 @@
+Welcome to ATM Machine !!!Enter Atm Number : 12345
+Enter Pin: 123
+1.View Available Balance
+2.Withdraw Amount
+3.Deposit Amount
+4.View Ministatement
+5.Exit
+Enter Choice : 
+1
+Available Balance is : 0.0
+1.View Available Balance
+2.Withdraw Amount
+3.Deposit Amount
+4.View Ministatement
+5.Exit
+Enter Choice :
+3
+Enter Amount to Deposit :
+3000
+3000.0 Deposited Successfully !!
+Available Balance is : 3000.0
+1.View Available Balance
+2.Withdraw Amount
+3.Deposit Amount
+4.View Ministatement
+5.Exit
+Enter Choice :
+2
+Enter amount to withdraw 
+2000
+Collect the Cash 2000.0
+Available Balance is : 1000.0
+1.View Available Balance
+2.Withdraw Amount
+3.Deposit Amount
+4.View Ministatement
+5.Exit
+Enter Choice :
+4
+3000.0 Amount Deposited
+2000.0 Amount Withdrawn
+1.View Available Balance
+2.Withdraw Amount
+3.Deposit Amount
+4.View Ministatement
+5.Exit
+Enter Choice :
+5
+Collect your ATM Card
+ Thank you for using ATM Machine!!
